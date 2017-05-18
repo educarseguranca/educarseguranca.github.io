@@ -11,7 +11,7 @@ Neste caso sistema pode significar várias coisas: sistemas operativos, aplicaç
 Costumo avaliar o grau de segurança de um sistema, pelo esforço necessário que uma entidade maliciosa teria de fazer para conseguir quebrar a segurança do mesmo. É uma questão simples de custo/benefício (como em tudo na vida): aumentando o custo de quebrar a segurança de um sistema, reduz-se o número de possíveis entidades maliciosas que vão tentar fazê-lo, e o retorno no benefício torna-se menor.
 
 
-<sup>1</sup> Um exemplo é a forma como gerimos as nossas palavras-passe pessoais. Desde memorizar até utilizar um bloco de notas ou um gestor de palavras-passe, tudo pode ser visto nesta perspetiva.
+<sup>1</sup> <sub>Um exemplo é a forma como gerimos as nossas palavras-passe pessoais. Desde memorizar até utilizar um bloco de notas ou um gestor de palavras-passe, tudo pode ser visto nesta perspetiva.</sub>
 
 
 ### Como surgem então os problemas?

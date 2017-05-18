@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nada É Seguro!
+title: Nada é seguro!
 permalink: /Nada-E-Seguro/
 ---
 

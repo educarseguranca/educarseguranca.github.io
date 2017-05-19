@@ -30,8 +30,15 @@ Um ponto que vale a pena mencionar no que toca à segurança de um sistema é qu
 
 ### Como identificar possíveis problemas?
 
+Para grandes sistemas ou aplicações existe normalmente (num caso onde existe esta preocupação claro) monitorização da utilização, de acessos a dados, logins, etc. E alguns serviços dão a conhecer ao utilizador quando algum alerta é gerado: [por exemplo a Google envia um email][imageLoginAlert], para os e-mails de segurança configurados, a alertar para o facto dessa conta Google ter feito login num dispositivo desconhecido ou pouco utilizado.
+[Existem também alguns serviços][hibp] disponibilizados [a título individual][TroyHunt] que alertam os seus utilizadores em caso de falhas de segurança nos serviços mais utilizados na web.
+
+
+Claro que, no caso de processos pessoais, cabe a cada um tentar perceber os riscos que corre, e no caso de haver alguma suspeita tentar investigar na medida do possível se existem realmente problemas. É um dos compromissos da não utilização de ferramentas de terceiros, ter a responsabilidade de monitorizar e investigar em caso de suspeita se houver esta preocupação com segurança.
+
 
 ### Como reagir em caso de falha de segurança?
+
 
 
 ## Segurança VS Usabilidade e Conforto
@@ -46,3 +53,6 @@ Compromisso entre segurança e conforto/usabilidade dos sistemas por parte dos u
 [link4]: https://www.publico.pt/2017/05/15/tecnologia/noticia/perguntas-e-respostas-sobre-o-ciberataque-1772266
 [link5]: https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 [link6]: https://pt.wikipedia.org/wiki/Phishing
+[imageLoginAlert]: ../images/google_login_alert.png
+[hibp]: https://haveibeenpwned.com/
+[TroyHunt]: https://www.troyhunt.com/about/

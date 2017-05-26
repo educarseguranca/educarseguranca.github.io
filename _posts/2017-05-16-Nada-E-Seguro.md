@@ -39,11 +39,24 @@ Claro que, no caso de processos pessoais, cabe a cada um tentar perceber os risc
 
 ### Como reagir em caso de falha de segurança?
 
+Neste caso sem saber a causa e efeitos do problema em causa é difícil determinar o melhor caminho a seguir. No entanto é possível fazer um plano e tentar seguir da melhor forma possível:
 
+* Tentar adquirir o máximo de informação possível acerca do tipo problema;
+* Tentar saber se se aplica ao nosso caso específico;
+* Seguir instruções gerais para o tipo de problema em causa.
 
-## Segurança VS Usabilidade e Conforto
+Exemplo: se for o caso de roubo de credenciais de um site ou aplicação da quais somos utilizadores, normalmente o melhor curso é terminar as sessões abertas, esperar pela indicação dos responsáveis do site que o problema foi identificado/contido, e mudar a palavra-passe depois desta indicação. No caso desta palavra-passe ser utilizada noutros sites (má prática a ser discutida noutro tópico) mudar as palavras-passe nos outros sites onde é utilizada.
 
-Compromisso entre segurança e conforto/usabilidade dos sistemas por parte dos utilizadores.
+## Segurança versus Usabilidade
+
+> "É possível ter aplicações ou processos mais seguros? Então porque não se fazem aplicações mais seguras?"
+
+Acerca deste tópico o que há a saber é que existe sempre um compromisso entre segurança e usabilidade, e os serviços tentam oferecer o melhor equilíbrio possível ao utilizador (ou deveriam) e por vezes dão a possibilidade de melhorar a segurança com a perda de um pouco de conforto (ou usabilidade) - como é o caso da autenticação em dois passos.
+
+Como o objetivo não é a segurança (na maior parte dos casos), têm de se eliminar os obstáculos que podem pôr em causa o objetivo (na maior parte dos casos é mais utilizadores que se traduz em mais lucros) e facilitar a aderência dos utilizadores. Claro que com o nível de segurança suficiente para que estes não abandonem o serviço.
+
+[Por vezes os serviços complicam][link7] e existe mesmo a perda de usabilidade e redução de segurança, com base em decisões antiquadas ou mesmo erradas.
+
 
 
 [link0]: https://arstechnica.com/security/2017/03/firefox-gets-complaint-for-labeling-unencrypted-login-page-insecure
@@ -53,6 +66,7 @@ Compromisso entre segurança e conforto/usabilidade dos sistemas por parte dos u
 [link4]: https://www.publico.pt/2017/05/15/tecnologia/noticia/perguntas-e-respostas-sobre-o-ciberataque-1772266
 [link5]: https://technet.microsoft.com/en-us/library/security/ms17-010.aspx
 [link6]: https://pt.wikipedia.org/wiki/Phishing
+[link7]: https://www.troyhunt.com/the-cobra-effect-that-is-disabling/
 [imageLoginAlert]: ../images/google_login_alert.png
 [hibp]: https://haveibeenpwned.com/
 [TroyHunt]: https://www.troyhunt.com/about/

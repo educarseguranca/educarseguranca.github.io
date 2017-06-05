@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Nada é seguro!
 permalink: /Nada-E-Seguro/
 ---

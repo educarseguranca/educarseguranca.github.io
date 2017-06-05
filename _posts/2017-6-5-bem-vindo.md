@@ -7,7 +7,7 @@ Bem vindo ao 'Educar em Segurança' (ou apenas 'Educar Segurança')!
 
 Este *site* surge da necessidade cada vez maior de educar a população para o que são realmente os perigos das "novas tecnologias", e dar a conhecer formas de protecção e utilização seguras das ferramentas do dia a dia.
 
-Os tópicos vão ser descritos de forma a poder chegar ao maior número de pessoas possíveis, *tentando* manter a informação simples e concisa. Tópicos mais técnicos serão apresentados com a evolução da informação aqui disponível.
+[Os tópicos][topics] vão ser descritos de forma a poder chegar ao maior número de pessoas possíveis, *tentando* manter a informação simples e concisa. Tópicos mais técnicos serão apresentados com a evolução da informação aqui disponível.
 
 Como a informação acerca destes tópicos se encontra facilmente em inglês, foi tomada a decisão de apresentar aqui em português e ajudar no desenvolvimento de conteúdo do género, fomentando a posição da língua portuguesa no "mercado global".
 
@@ -16,7 +16,7 @@ Como maior parte da boa informação está em inglês, vão haver muitas referê
 
 ## Porquê a educação?
 
-Do ponto de vista pessoal, esta informação vai ser criada com o intuito de apresentar a amigos e membros da família, que não possuam conhecimentos técnicos suficientes para implementar boas práticas no que toca a segurança, ajudando assim também todos os que têm esses conhecimentos, ao facilitar a difusão da mensagem e do conhecimento (basicamente, queremos que a nossa família e amigos nos deixe em paz!).
+Do ponto de vista pessoal, esta informação vai ser criada com o intuito de apresentar a amigos e família, que não possuam conhecimentos técnicos suficientes para implementar boas práticas no que toca a segurança, ajudando assim também todos os que têm esses conhecimentos, ao facilitar a difusão da mensagem e do conhecimento (basicamente, queremos que a nossa família e amigos nos deixem em paz!).
 
 Como vivemos numa democracia, a decisão do rumo da nossa sociedade não cabe só a nós, e para podermos debater certos temas e apresentar consequências de certas acções por parte de quem nos governa, é necessário que as outras pessoas tenham uma base que sustente o debate. [Quando são tomadas decisões que afectam toda a população][dadosTelemoveisSecretas], é preciso que a população entenda o tema para saber reivindicar, acordar ou discordar, até mesmo protestar acerca das decisões tomadas.
 
@@ -25,6 +25,7 @@ Mais importante ainda: quando existem governos que [fazem propostas de lei][regu
 
 Resumindo, é pelo bem de todos que vale a pena combater a ignorância.
 
+[topics]: {{ site.baseurl }}/content
 [dadosTelemoveisSecretas]: https://www.dn.pt/portugal/interior/juizes-chumbam-acesso-das-secretas-a-dados-dos-telemoveis-8487444.html
 [regularInternet]: https://www.belfasttelegraph.co.uk/technology/theresa-may-to-create-new-internet-that-allows-government-to-control-and-regulate-what-is-said-online-35733509.html
 [regularAposAtaque]: https://www.independent.co.uk/news/uk/politics/theresa-may-internet-regulated-london-bridge-terror-attack-google-facebook-whatsapp-borough-security-a7771896.html

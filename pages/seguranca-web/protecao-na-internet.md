@@ -4,12 +4,12 @@ title: Proteção na Internet
 permalink: /protecao-na-internet/
 ---
 
-#Tipos de ameaças
+# Tipos de ameaças
 
-#Proteção contra JS (NoScript)
+# Proteção contra JS (NoScript)
 
-#Configuração do browser
+# Configuração do browser
 
-#Servidores de e-mail privados
+# Servidores de e-mail privados
 
-#Redes de publicidade/tracking
+# Redes de publicidade/tracking

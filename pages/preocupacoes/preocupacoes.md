@@ -4,12 +4,12 @@ title: Com o que me devo preocupar?
 permalink: /com-o-que-me-devo-preocupar/
 ---
 
-#Estou a ser escutado?
+# Estou a ser escutado?
 
-#Roubo/perda de informação
+# Roubo/perda de informação
 
-#Roubo de identidade
+# Roubo de identidade
 
-#Cyber Bullying
+# Cyber Bullying
 
-#"Tudo o que disser pode e vai ser usado contra si"
+# "Tudo o que disser pode e vai ser usado contra si"

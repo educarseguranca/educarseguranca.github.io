@@ -4,8 +4,8 @@ title: Proteção Offline
 permalink: /protecao-offline/
 ---
 
-#Cifra de ficheiros individuais
+# Cifra de ficheiros individuais
 
-#Cifra de sistemas/discos
+# Cifra de sistemas/discos
 
-#Cloud pessoal
+# Cloud pessoal

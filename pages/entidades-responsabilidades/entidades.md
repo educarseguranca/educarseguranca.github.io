@@ -4,16 +4,16 @@ title: Entidades
 permalink: /entidades/
 ---
 
-# Entidades Internacionais
+## Entidades Internacionais
 
-## Governamentais
+### Governamentais
 
-## Non-profit
+### Non-profit
 
-## For-profit
+### For-profit
 
-# Entidades Nacionais
+## Entidades Nacionais
 
-## Públicas
+### Públicas
 
-## Privadas
+### Privadas

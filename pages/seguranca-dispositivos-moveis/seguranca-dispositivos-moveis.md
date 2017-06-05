@@ -4,8 +4,8 @@ title: Segurança em Dispositivos Móveis
 permalink: /seguranca-dispositivos-moveis/
 ---
 
-# Instalação e configuração de aplicações
+## Instalação e configuração de aplicações
 
-# Códigos de segurança
+## Códigos de segurança
 
-# Ferramentas de localização
+## Ferramentas de localização

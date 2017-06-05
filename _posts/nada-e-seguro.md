@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Nada é seguro!
-permalink: /Nada-E-Seguro/
+permalink: /nada-e-seguro/
 ---
 
 Nada é 100% seguro! Ter isto em mente é fundamental quando se trata de segurança.

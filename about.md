@@ -13,7 +13,7 @@ E porque as pessoas são normalmente o elo mais fraco num sistema no que toca a 
 
 Em caso de dúvidas, correções ou esclarecimentos contactar: [educate2secure@gmail.com][mail].
 
-Para contribuir diretamente basta fazer pull-request para [o repositório][repo].
+Para contribuir diretamente basta fazer *pull-request* para [o repositório][repo].
 
 [link0]: https://pt.wikipedia.org/wiki/Aldeia_Global
 [mail]: mailto:educate2secure@gmail.com

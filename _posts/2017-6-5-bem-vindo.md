@@ -16,7 +16,7 @@ Como maior parte da boa informação está em inglês, vão haver muitas referê
 
 ## Porquê a educação?
 
-Do ponto de vista pessoal, esta informação vai ser criada com o intuito de apresentar a amigos e família, que não possuam conhecimentos técnicos suficientes para implementar boas práticas no que toca a segurança, ajudando assim também todos os que têm esses conhecimentos, ao facilitar a difusão da mensagem e do conhecimento (basicamente, queremos que a nossa família e amigos nos deixem em paz!).
+Do ponto de vista pessoal, esta informação vai ser criada com o intuito de apresentar a amigos e família, que não possuam conhecimentos técnicos suficientes para implementar boas práticas no que toca a cibersegurança, ajudando assim também todos os que têm esses conhecimentos, ao facilitar a difusão da mensagem e do conhecimento (basicamente, queremos que a nossa família e amigos nos deixem em paz!).
 
 Como vivemos numa democracia, a decisão do rumo da nossa sociedade não cabe só a nós, e para podermos debater certos temas e apresentar consequências de certas acções por parte de quem nos governa, é necessário que as outras pessoas tenham uma base que sustente o debate. [Quando são tomadas decisões que afectam toda a população][dadosTelemoveisSecretas], é preciso que a população entenda o tema para saber reivindicar, acordar ou discordar, até mesmo protestar acerca das decisões tomadas.
 

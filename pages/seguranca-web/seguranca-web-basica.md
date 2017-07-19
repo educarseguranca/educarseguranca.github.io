@@ -68,6 +68,20 @@ A recomendação neste caso será para [LastPass][lastpass] ou similar, pela fac
 
 ## Autenticação em 2 passos
 
+A autenticação de um utilizador pode ser feita por 3 vias:
+
+1. Utilizando algo que ele sabe (palavra-passe, código pin, etc.);
+
+2. Algo que ele tem ([RSA token][token], cartão [RFID][rfid], etc.);
+
+3. Ou utilizando "algo que ele é" (dados biométricos como impressão digital).
+
+No dia a dia, a escolha por conveniência é a via 1, e [como se sabe][nadaseguro] existe sempre um compromisso entre segurança e conveniência/usabilidade. Neste caso, algo que o utilizador saiba não quer dizer que mais ninguém o saiba, e não é possível determinar com certeza quem se está a autenticar.
+
+Para aumentar a segurança (à custa de alguma conveniência) pode, em maior parte dos serviços, utilizar-se autenticação em 2 passos, que utiliza outra via (geralmente algo que o utilizador tem) para além da primeira.
+
+Uma das formas de realizar este processo, é enviando uma mensagem ([SMS][sms]) ao utilizador após validar a palavra-passe, com um código PIN que terá de ser introduzido pelo utilizador. Mais recentemente, existe, por parte de muitos serviços, o suporte à aplicação *Google Authenticator* ([iOS][gaios] e [Android][gaandroid]) que gera PINs de 6 dígitos (temporários) que podem ser utilizados durante a autenticação.
+
 ## Comunicações privadas
 
 ## Compras Online
@@ -79,4 +93,10 @@ A recomendação neste caso será para [LastPass][lastpass] ou similar, pela fac
 [onepassword]: https://1password.com/
 [keepass]: http://keepass.info/
 [keepassx]: https://www.keepassx.org
+[token]: https://en.wikipedia.org/wiki/RSA_SecurID
+[rfid]: https://en.wikipedia.org/wiki/Radio-frequency_identification
+[gaios]: https://itunes.apple.com/us/app/google-authenticator/id388497605
+[gaandroid]: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
+[sms]: https://pt.wikipedia.org/wiki/Servi%C3%A7o_de_mensagens_curtas
 [preocupacoes]: {{ site.baseurl }}/com-o-que-me-devo-preocupar
+[nadaseguro]: {{ site.baseurl }}/nada-e-seguro

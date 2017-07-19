@@ -47,7 +47,7 @@ Neste caso sem saber a causa e efeitos do problema em causa é difícil determin
 
 Exemplo: se for o caso de roubo de credenciais de um site ou aplicação da quais somos utilizadores, normalmente o melhor curso é terminar as sessões abertas, esperar pela indicação dos responsáveis do site que o problema foi identificado/contido, e mudar a palavra-passe depois desta indicação. No caso desta palavra-passe ser utilizada noutros sites (má prática a ser discutida noutro tópico) mudar as palavras-passe nos outros sites onde é utilizada.
 
-## Segurança versus Usabilidade
+## Segurança versus Usabilidade {#segurancavsusabilidade}
 
 > "É possível ter aplicações ou processos mais seguros? Então porque não se fazem aplicações mais seguras?"
 

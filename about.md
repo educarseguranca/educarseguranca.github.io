@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Educar Segurança
 permalink: /about/
 ---
 

@@ -76,7 +76,7 @@ A autenticação de um utilizador pode ser feita por 3 vias:
 
 3. Ou utilizando "algo que ele é" (dados biométricos como impressão digital).
 
-No dia a dia, a escolha por conveniência é a via 1, e [como se sabe][nadaseguro] existe sempre um compromisso entre segurança e conveniência/usabilidade. Neste caso, algo que o utilizador saiba não quer dizer que mais ninguém o saiba, e não é possível determinar com certeza quem se está a autenticar.
+No dia a dia, a escolha por conveniência é a via 1, e, como se sabe, [existe sempre um compromisso][nadaseguro] entre segurança e conveniência/usabilidade. Neste caso, algo que o utilizador saiba não quer dizer que mais ninguém o saiba, e não é possível determinar com certeza quem se está a autenticar.
 
 Para aumentar a segurança (à custa de alguma conveniência) pode, em maior parte dos serviços, utilizar-se autenticação em 2 passos, que utiliza outra via (geralmente algo que o utilizador tem) para além da primeira.
 

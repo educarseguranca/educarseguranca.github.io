@@ -99,4 +99,4 @@ Uma das formas de realizar este processo, é enviando uma mensagem ([SMS][sms]) 
 [gaandroid]: https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2
 [sms]: https://pt.wikipedia.org/wiki/Servi%C3%A7o_de_mensagens_curtas
 [preocupacoes]: {{ site.baseurl }}/com-o-que-me-devo-preocupar
-[nadaseguro]: {{ site.baseurl }}/nada-e-seguro
+[nadaseguro]: {{ site.baseurl }}/nada-e-seguro/#segurancavsusabilidade

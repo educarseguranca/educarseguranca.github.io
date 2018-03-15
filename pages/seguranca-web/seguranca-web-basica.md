@@ -28,7 +28,7 @@ Há que perceber se vale a pena perder algum conforto de utilização para ter m
 
 * Se possível (em casos mais avançados) limitar a execução de *javascript* nos sites;
 
-* Não utilizar redes públicas desconhecidas;
+* Minimizar a utilização redes públicas;
 
 * Não utilizar redes públicas para aceder a serviços importantes;
 
@@ -44,7 +44,7 @@ A primeira questão sendo mais técnica e tendo outro público alvo, não faz se
 
 Antes de responder à pergunta vamos enumerar o que é uma má palavra-passe:
 
-* Palavra-passe comum: fácil de adivinhar por outra pessoa (exemplo: '123456789');
+* [Palavra-passe comum][listapasswords]: fácil de adivinhar por outra pessoa (exemplo: '123456789');
 
 * Relacionado com algo pessoal: fácil de adivinhar por outra pessoa (exemplo: data de nascimento, ou nome de um familiar);
 
@@ -54,9 +54,9 @@ Antes de responder à pergunta vamos enumerar o que é uma má palavra-passe:
 
 * Palavra-passe derivada de outra: é fácil de descobrir estas variações hoje em dia, caso uma delas seja exposta.
 
-Posto isto, uma palavra-passe que não seja comum, não seja reutilizada (única), não seja relacionada com algo pessoal, que não seja derivada de outras palavras-passe deverá ser uma boa palavra-passe. Por outras palavras, [uma boa palavra-passe é imemorável][securepassword].
+Posto isto, [uma palavra-passe que não seja comum][listapasswords], não seja reutilizada (única), não seja relacionada com algo pessoal, que não seja derivada de outras palavras-passe deverá ser uma boa palavra-passe. Por outras palavras, [uma boa palavra-passe é imemorável][securepassword].
 
-Normalmente, uma palavra-passe segura, deve ser gerada aleatoriamente utilizando números, símbolos, letras maiúsculas e minúsculas, sempre diferente para cada aplicação ou serviços diferentes.
+Normalmente, uma palavra-passe segura, deve ser gerada *aleatoriamente* utilizando números, símbolos, letras maiúsculas e minúsculas, sempre diferente para cada aplicação ou serviços diferentes.
 
 ### Como fazer a gestão de palavras-passe?
 
@@ -89,6 +89,7 @@ Uma das formas de realizar este processo, é enviando uma mensagem ([SMS][sms]) 
 
 [trackingprotection]: https://support.mozilla.org/pt-PT/kb/protecao-contra-monitorizacao-na-navegacao-privada
 [securepassword]: https://www.troyhunt.com/only-secure-password-is-one-you-cant/
+[listapasswords]: https://haveibeenpwned.com/Passwords
 [lastpass]: https://www.lastpass.com/
 [onepassword]: https://1password.com/
 [keepass]: http://keepass.info/
